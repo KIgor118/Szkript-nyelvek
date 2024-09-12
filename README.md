@@ -1,2 +1,1 @@
 # Szkript-nyelvek
-teszt
